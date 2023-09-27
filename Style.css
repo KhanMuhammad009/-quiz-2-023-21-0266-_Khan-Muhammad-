@@ -1,0 +1,10 @@
+/* This styles the font size and color of the paragraph */
+p {
+  font-size: 16px;
+  color: #333; /* Dark gray color */
+}
+
+/* This adds some margin around the paragraph */
+.container {
+  margin: 20px;
+}
